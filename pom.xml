@@ -63,6 +63,7 @@
 					<encoding>UTF-8</encoding>
 					<docencoding>UTF-8</docencoding>
 					<charset>UTF-8</charset>
+					<doclint>none</doclint>
 				</configuration>
 			</plugin>
 		</plugins>
