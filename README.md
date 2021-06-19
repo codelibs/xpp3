@@ -1,4 +1,5 @@
 MXP1: Xml Pull Parser 3rd Edition (XPP3)
+[![Java CI with Maven](https://github.com/codelibs/xpp3/actions/workflows/maven.yml/badge.svg)](https://github.com/codelibs/xpp3/actions/workflows/maven.yml)
 ========================================
 
 This repository is forked from [XPP3](http://www.extreme.indiana.edu/xgws/xsoap/xpp/mxp1/) and javax.xml.namespace.QName is removed.
